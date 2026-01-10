@@ -1,0 +1,43 @@
+name: Scraper BRZ - XML Automático
+
+on:
+  schedule:
+    # Roda todos os dias às 06:00 e 18:00 (Horário de Brasília)
+    # No servidor UTC é +3h, então configuramos 09:00 e 21:00 UTC
+    - cron: '0 9,21 * * *'
+  workflow_dispatch: # Permite rodar manualmente clicando no botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: 🤖 Rodar Robô (Extrair Dados)
+        run: node index.js
+        # Isso vai gerar o brz_imoveis.json
+
+      - name: 🔄 Rodar Conversor (Gerar XML)
+        run: node conversor.js
+        # Isso vai gerar o brz_imoveis_wp.xml
+
+      - name: 💾 Salvar XML no Repositório
+        run: |
+          git config --global user.name "Robo BRZ"
+          git config --global user.email "robo@brz.com"
+          git add brz_imoveis_wp.xml
+          # Só commita se houver mudanças para evitar erro
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizacao automatica: Imoveis BRZ" && git push)
