@@ -90,25 +90,6 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
-    <descricao>© 2025 BRZ Empreendimentos - CNPJ: 04.065.053/0070-73</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>0</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-altos-de-aquarius</url_origem>
-    <fotos/>
-  </imovel>
-  <imovel>
     <codigo>BRZ-PORTALCASTELOSDEBRSC</codigo>
     <titulo>PORTAL CASTELOS DE BRÉSCIA</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
