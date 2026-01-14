@@ -76,7 +76,7 @@
     <cidade>Hortolândia</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>34.61</area_util>
+    <area_util>37.40</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -629,7 +629,7 @@
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
     <titulo>SEM TÍTULO</titulo>
-    <descricao>© 2025 BRZ Empreendimentos - CNPJ: 04.065.053/0070-73</descricao>
+    <descricao>© 2025 BRZ Empreendimentos -  CNPJ: 04.065.053/0070-73</descricao>
     <rua>Endereço a consultar</rua>
     <cidade>São Paulo</cidade>
     <estado>SP</estado>
