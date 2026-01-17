@@ -1475,6 +1475,27 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALMIRANTEDALAGOA</codigo>
+    <titulo>PORTAL MIRANTE DA LAGOA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Araras</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>55</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-mirante-da-lagoa</url_origem>
+    <fotos>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64e35b06a2b214139156b792_Ativo%209.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALMONTANHASDESAL</codigo>
     <titulo>PORTAL MONTANHAS DE SALERNO</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
