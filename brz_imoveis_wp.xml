@@ -2189,6 +2189,27 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALSOLARDOSBEMTEV</codigo>
+    <titulo>PORTAL SOLAR DOS BEM-TE-VIS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Leme</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>52</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-solar-dos-bem-te-vis</url_origem>
+    <fotos>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64f869bee762c6bcc9e513a4_Ativo%2046.png</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALSOLARDOSCANRIO</codigo>
     <titulo>PORTAL SOLAR DOS CANÁRIOS</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
