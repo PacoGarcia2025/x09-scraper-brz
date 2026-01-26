@@ -1092,6 +1092,27 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALJARDIMBARONESA</codigo>
+    <titulo>PORTAL JARDIM BARONESA II</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Pouso Alegre</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>48</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-baronesa-ii</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/12/4f8e7808-e53d-4d45-a562-255db1ef0850.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALJARDIMDASANGLI</codigo>
     <titulo>PORTAL JARDIM DAS ANGÉLICAS</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
@@ -2462,14 +2483,14 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
-    <descricao>Pesquise por cidade, tipo de apartamento ou fase da obra e encontre o lugar certo para um novo capítulo da sua nova história.</descricao>
+    <codigo>BRZ-PORTALVILADASERRA</codigo>
+    <titulo>PORTAL VILA DA SERRA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <cidade>Congonhal</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>45</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -2477,28 +2498,9 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/busca</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vila-da-serra</url_origem>
     <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/b763454c-f53d-48a4-9d1b-6aed7415d118.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/856a1f05-8618-4f9f-b3d3-d123e7a2b252.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9a80e910-7fe0-4c9a-98f9-ff78d1b821d6.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/2c318d64-80c6-46bb-9e35-47a65b6c93a1.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/5003bb12-9e9a-4072-b7c1-39b097a82a26.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/3cb9cef7-c902-46d2-8c57-56268c727bf9.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/7c2fdf42-f54b-4d47-9e89-6319174a5257.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/03fef083-c4ff-45b4-9f01-f122885c385b.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/e8cde8eb-ee99-4f40-80f4-c9004969e9cc.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/21a15e8f-8b65-464c-9428-5149f9a55af1.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/d349be3c-26a4-4df8-9859-7997edfd1a2b.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/e81405b1-bbf2-4d1a-8445-1ca39656c4ca.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/ea6b6efd-a18f-40f0-bc1d-86da5549f5c1.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/60cf84d1-ab61-4a55-82db-75495a2c7b63.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/8ab658f7-d17b-4029-990f-dd65daf78216.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/df5939c7-58e6-4e7b-ad18-8915c8a6335e.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/15c5a77f-fcfe-4638-ac84-8fc74a820522.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/3d63bc14-5ea1-443b-8204-d042510300ff.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/707a35f0-c61b-40d7-b323-b147962ceae0.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/fb946f74-ae08-4f18-bfe9-0201eda06c52.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66e1daabb6fdf48ff5021524_portal-vila-da-serra-2-66e1d44ee13b7.webp</foto>
     </fotos>
   </imovel>
   <imovel>
