@@ -27,6 +27,27 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALPARQUEDEMONZA</codigo>
+    <titulo>PORTAL PARQUE DE MONZA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>ESTRADA MUNICIPAL MOISÉS MARTINS, 955</rua>
+    <cidade>Tatuí</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>44.82</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Lançamento</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-parque-de-monza</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/c9a783cc-d9ec-4cca-99b6-e3e5e3e556ad.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALENCANTOSDEMARA</codigo>
     <titulo>PORTAL ENCANTOS DE MARATIM</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
@@ -522,35 +543,33 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALBEGNIASDOCAMPO</codigo>
-    <titulo>PORTAL BEGÔNIAS DO CAMPO</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>© 2025 BRZ Empreendimentos - CNPJ: 04.065.053/0070-73</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>Araras</cidade>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>52</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-begonias-do-campo</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/67926f8f4523b91b753c284b_02-67926edf37f1f.webp</foto>
-    </fotos>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-azaleias-do-campo</url_origem>
+    <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PARQUERESIDENCIALDOB</codigo>
-    <titulo>PARQUE RESIDENCIAL DO BOSQUE</titulo>
+    <codigo>BRZ-PORTALBELAVISTA</codigo>
+    <titulo>PORTAL BELA VISTA</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>Justinópolis</cidade>
+    <cidade>Pouso Alegre</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>49</area_util>
+    <area_util>48</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -558,30 +577,9 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/parque-residencial-do-bosque</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-bela-vista</url_origem>
     <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/31eb9bf0-8ac8-4727-bbd5-0a738705639f.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALALVORADADASGAR</codigo>
-    <titulo>PORTAL ALVORADA DAS GARÇAS</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Ribeirão Preto</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>54</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alvorada-das-garcas</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68b9dcbe97f5baadb5a0e6af_021.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/bd3dab98-1847-48fb-ac63-a75f7b83a51c.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -603,6 +601,27 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-belvedere-i</url_origem>
     <fotos>
       <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e8b9d2a15531fb88c121cf_Ativo%2058.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALBELVEDEREII</codigo>
+    <titulo>PORTAL BELVEDERE II</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Divinópolis</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>48</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-belvedere-ii</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e8be7e1e100559f8b2dbac_Ativo%2060.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -821,6 +840,69 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALDIAMANTEROSA</codigo>
+    <titulo>PORTAL DIAMANTE ROSA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Divinópolis</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>56</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-diamante-rosa</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e8c6d4abcedf55d35cee6a_Ativo%2089.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALDOSBANDEIRANTE</codigo>
+    <titulo>PORTAL DOS BANDEIRANTES</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Pouso Alegre</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>49</area_util>
+    <quartos>3</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-dos-bandeirantes</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/911c1caf-f05c-47f1-bc93-76007e3b6bcd.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALDOSRUBIS</codigo>
+    <titulo>PORTAL DOS RUBIS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>AV. THEREZA ANA CECON BREDA, N° 1801 - JARDIM DAS COLINAS, HORTOLÂNDIA - SP, 13183-250</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>58</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-dos-rubis</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/d25d28c3-6875-4f17-a01a-b8d1dc0a9694.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALENCANTOSDEPARM</codigo>
     <titulo>PORTAL ENCANTOS DE PARMA</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
@@ -839,6 +921,90 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-parma</url_origem>
     <fotos>
       <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/685db6141fc6cce229f27899_02.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALENCANTOSDETOSC</codigo>
+    <titulo>PORTAL ENCANTOS DE TOSCANA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>54</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-toscana</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/689bad559ca475b89011b353_BRZ_HORT_TOSCANA_CHAVES_EMP-0064.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALESTNCIADASGUAS</codigo>
+    <titulo>PORTAL ESTÂNCIA DAS ÁGUAS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Poços de Caldas</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>52</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-estancia-das-aguas</url_origem>
+    <fotos>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64e75f514658955c46dcbd29_Ativo%2021.png</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALRISDOCAMPO</codigo>
+    <titulo>PORTAL ÍRIS DO CAMPO</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>AV. CAROLA, 211 - JARDIM CELINA, ARARAS - SP</rua>
+    <cidade>Araras</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>52</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-iris-do-campo</url_origem>
+    <fotos>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/63d2b65ce16ffc605cefcfef_L33A9720.png</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALJARDIMBARONESA</codigo>
+    <titulo>PORTAL JARDIM BARONESA II</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Pouso Alegre</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>48</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-baronesa-ii</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/12/4f8e7808-e53d-4d45-a562-255db1ef0850.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -1099,27 +1265,6 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALJARDINSDETURIM</codigo>
-    <titulo>PORTAL JARDINS DE TURIM</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Tatuí</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>52</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-de-turim</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68b9e89b66162e016caaeb3d_PORTAL%20JARDINS%20DE%20TURIM%20(1</foto>
-    </fotos>
-  </imovel>
-  <imovel>
     <codigo>BRZ-PORTALJARDINSDVERA</codigo>
     <titulo>PORTAL JARDINS D'VERA</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
@@ -1204,14 +1349,14 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALMORADADASPALME</codigo>
-    <titulo>PORTAL MORADA DAS PALMEIRAS</titulo>
+    <codigo>BRZ-PORTALMIRANTEDALAGOA</codigo>
+    <titulo>PORTAL MIRANTE DA LAGOA</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>Patos de Minas</cidade>
+    <cidade>Araras</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>47</area_util>
+    <area_util>55</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -1219,9 +1364,51 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-morada-das-palmeiras</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-mirante-da-lagoa</url_origem>
     <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64f73d4dd6d21c8f62ce6a3c_Ativo%2051.webp</foto>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64e35b06a2b214139156b792_Ativo%209.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALMONTANHASDESAL</codigo>
+    <titulo>PORTAL MONTANHAS DE SALERNO</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>RUA: RIO PINDARÉ, 1200 - PARQUE BELLA VILLE, HORTOLÂNDIA - SP, 13183-894</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>55</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-montanhas-de-salerno</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/67350f4e54e0312e0735ed52_whatsapp-image-2024-11-13-at-173813-1-67350ed620494.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALORIENTEI</codigo>
+    <titulo>PORTAL ORIENTE I</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Pouso Alegre</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>49</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-oriente-i</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/2207f95f-11ec-491b-b821-1f6ab314fa34.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -1348,6 +1535,48 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-quinta-das-macieiras</url_origem>
     <fotos>
       <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64e4c511c04752484b9f20df_Ativo%20110.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALQUINTADASOLIVE</codigo>
+    <titulo>PORTAL QUINTA DAS OLIVEIRAS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>53</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-quinta-das-oliveiras</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/12/142fcfcc-f1d8-4587-aaa0-c12ebfe9ac09.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALQUINTADASPITAN</codigo>
+    <titulo>PORTAL QUINTA DAS PITANGUEIRAS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>AV. C-12, 1355 - CRISTIANO DE CARVALHO, BARRETOS - SP, 14781-449</rua>
+    <cidade>Barretos</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>55</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-quinta-das-pitangueiras</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e4cb462d64148efe560bcc_Ativo%20120.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -1750,6 +1979,48 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALSOLARDASAMETIS</codigo>
+    <titulo>PORTAL SOLAR DAS AMETISTAS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Pouso Alegre</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>0</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-solar-das-ametistas</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/12/c538252e-7972-4be5-b075-d68cff9d9b4a.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALSOLARDASMANGAB</codigo>
+    <titulo>PORTAL SOLAR DAS MANGABEIRAS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Araras</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>57</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-solar-das-mangabeiras</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e4ae4b8ff9a5c7dce5a7e8_Ativo%2081.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALSOLARDASTURQUE</codigo>
     <titulo>PORTAL SOLAR DAS TURQUESAS</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
@@ -1768,6 +2039,48 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-solar-das-turquesas</url_origem>
     <fotos>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/12/941bc1a2-758c-4ce1-9121-e5be80d048bb.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALSOLARDOSBEMTEV</codigo>
+    <titulo>PORTAL SOLAR DOS BEM-TE-VIS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Leme</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>52</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-solar-dos-bem-te-vis</url_origem>
+    <fotos>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64f869bee762c6bcc9e513a4_Ativo%2046.png</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALSOLARDOSCANRIO</codigo>
+    <titulo>PORTAL SOLAR DOS CANÁRIOS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Duque de Caxias</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>45</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-solar-dos-canarios</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6847460450e5d2b4f6b3c303_01.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -1810,48 +2123,6 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-terras-de-portinari</url_origem>
     <fotos>
       <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/685db22e673e31ba108998a8_01.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALTERRASDERAVENN</codigo>
-    <titulo>PORTAL TERRAS DE RAVENNA</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>RUA OSCAR PIRES DE ASIS, 64 - JARDIM LUZ D'ALMA, SUMARÉ - SP, 13170-023</rua>
-    <cidade>Sumaré</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>54</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-terras-de-ravenna</url_origem>
-    <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/bd1c96d8-30a9-499f-a9a7-e86104f7f600.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALTOPZIOIMPERIAL</codigo>
-    <titulo>PORTAL TOPÁZIO IMPERIAL</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Divinópolis</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>51</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-topazio-imperial</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64ec9848134e8a307b8d2747_Ativo%2061.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -2154,6 +2425,27 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-SOLARDOSJACARANDS</codigo>
+    <titulo>SOLAR DOS JACARANDÁS</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Araras</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>57</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/solar-dos-jacarandas</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e4b5b002aac2731251cdd6_Ativo%2096.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALVALEDASROSAS</codigo>
     <titulo>PORTAL VALE DAS ROSAS</titulo>
     <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
@@ -2214,6 +2506,27 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/village-do-jatoba</url_origem>
     <fotos>
       <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/6500ae5ee56780da8c4b81d2_familia-jovem-com-filho-pequeno-junto-na-cinza.jpg</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALJARDINSDVERA</codigo>
+    <titulo>PORTAL JARDINS D'VERA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>Extrema</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>53</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Pronto para Morar</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-dvera</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e61e13358db407494847c6_Ativo%2029.webp</foto>
     </fotos>
   </imovel>
 </imoveis>
