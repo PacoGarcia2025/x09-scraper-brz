@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <imoveis>
   <imovel>
-    <codigo>BRZ-PORTALPARQUEDEMONZA</codigo>
-    <titulo>PORTAL PARQUE DE MONZA</titulo>
+    <codigo>BRZ-PORTALENCANTOSDEVENE</codigo>
+    <titulo>PORTAL ENCANTOS DE VENEZA</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>ESTRADA MUNICIPAL MOISÉS MARTINS, 955</rua>
-    <cidade>Tatuí</cidade>
+    <rua>RUA ARMANDO DOS SANTOS, 10 - JARDIM NOVA ALVORADA, HORTOLÂNDIA/SP</rua>
+    <cidade>Hortolândia</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>44.82</area_util>
-    <quartos>2</quartos>
+    <area_util>45.22</area_util>
+    <quartos>3</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Lançamento</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-parque-de-monza</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-veneza</url_origem>
     <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/c9a783cc-d9ec-4cca-99b6-e3e5e3e556ad.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678fa04ad331580ba1d92ed0_E130-IMG-PRL-PDA-PAR-R00.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/811703a3-7f0a-4352-ab50-f301c8d28863.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/6062dee7-0cd7-49a6-ae28-e3871d829caf.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9ad57813-0cd4-4cdc-884e-90576412b5a4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/2c6234e2-bb49-447f-b54d-a8f78feaeee0.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/86ff247e-b04c-43b5-a6be-9229ee9776b5.webp</foto>
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALENCANTOSDEMARA</codigo>
-    <titulo>PORTAL ENCANTOS DE MARATIM</titulo>
+    <codigo>BRZ-PORTALENCANTOSDAMATA</codigo>
+    <titulo>PORTAL ENCANTOS DA MATA</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>Ubatuba</cidade>
+    <cidade>Embu das Artes</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>41.58</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -37,30 +42,9 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Lançamento</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-maratim</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-da-mata</url_origem>
     <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/67c06f5cb2c897e8f32aeff9_happy-couple-kissing-their-child.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALTORRESDEBOREAL</codigo>
-    <titulo>PORTAL TORRES DE BOREAL</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>RUA JOSÉ VEDOVATTO, 1.667</rua>
-    <cidade>Sumaré</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>45.94</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Lançamento</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-torres-de-boreal</url_origem>
-    <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/8ba2cf6f-a565-44ac-857a-33bdcfe745c5.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68af60af0609c4c6c2068641_familia-feliz-sentada-no-sofa-na-sala-de-estar%20(1</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -154,168 +138,6 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALENCANTOSDECAPR</codigo>
-    <titulo>PORTAL ENCANTOS DE CAPRI</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Av. da Emancipação, 4.813 - Parque dos Pinheiros, Hortolândia - SP</rua>
-    <cidade>Hortolândia</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>54</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-capri</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/65d8f291d2bccba1c0f84d8b_CAPRI_PORTAL%20DE%20ACESSO_PRANCHA_EM%20ALTA.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/0bac24d6-6bc3-464b-9c58-fb3ca6ce2af9.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/1b45073f-00c8-4ecc-aead-4564f07bf039.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/defc8ffa-d9c7-4c6f-8a06-ded19bd01cca.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/bf298e4e-2819-452e-ac9f-06a08c3316cb.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/0272c979-6898-4e49-a82d-7f085acd4c24.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALENCANTOSDEVENE</codigo>
-    <titulo>PORTAL ENCANTOS DE VENEZA</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>RUA ARMANDO DOS SANTOS, 10 - JARDIM NOVA ALVORADA, HORTOLÂNDIA/SP</rua>
-    <cidade>Hortolândia</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>45.22</area_util>
-    <quartos>3</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-veneza</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678fa04ad331580ba1d92ed0_E130-IMG-PRL-PDA-PAR-R00.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/811703a3-7f0a-4352-ab50-f301c8d28863.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/6062dee7-0cd7-49a6-ae28-e3871d829caf.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9ad57813-0cd4-4cdc-884e-90576412b5a4.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/2c6234e2-bb49-447f-b54d-a8f78feaeee0.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/86ff247e-b04c-43b5-a6be-9229ee9776b5.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALGIARDINIDIFIRE</codigo>
-    <titulo>PORTAL GIARDINI DI FIRENZE</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>ESTRADA KAZUMI SETOGUCHI, GLEBA - A, 350 - MORRO VERMELHO - MOGI MIRIM/SP</rua>
-    <cidade>Mogi Mirim</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>69.38</area_util>
-    <quartos>3</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-giardini-di-firenze</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6758799b45ced1fe0f452348_E122_IMG_PRL_PDA_PAR_R00.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/e7c6f94f-556c-4a18-8ea6-26408b3f1330.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/d1ccb27c-a22c-4e57-9fae-28cbe63109ad.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/a6bdf9f9-1d04-4bfa-9329-b170c5f5d4fb.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/32cc0348-f923-4980-860d-6b40eb8f583f.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/73c02991-31ef-441d-a66a-06969b46ba24.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALALTODASOLIVEIR</codigo>
-    <titulo>PORTAL ALTO DAS OLIVEIRAS</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>RUA ELYSALDO GOES, 105 PARQUE DAS OLIVEIRAS II, RIBEIRÃO PRETO - SP, 14059-240</rua>
-    <cidade>Ribeirão Preto</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>54</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alto-das-oliveiras</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66fc33db0f10db89970ea940_dji-0425-66fc32a02c0f0.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALBEGNIASDOCAMPO</codigo>
-    <titulo>PORTAL BEGÔNIAS DO CAMPO</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Araras</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>52</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-begonias-do-campo</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/67926f8f4523b91b753c284b_02-67926edf37f1f.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PARQUERESIDENCIALDOB</codigo>
-    <titulo>PARQUE RESIDENCIAL DO BOSQUE</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Justinópolis</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>49</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/parque-residencial-do-bosque</url_origem>
-    <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/31eb9bf0-8ac8-4727-bbd5-0a738705639f.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALALVORADADASGAR</codigo>
-    <titulo>PORTAL ALVORADA DAS GARÇAS</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Ribeirão Preto</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>54</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alvorada-das-garcas</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68b9dcbe97f5baadb5a0e6af_021.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
     <codigo>BRZ-PORTALANTRIOSDOCAMPO</codigo>
     <titulo>PORTAL ANTÚRIOS DO CAMPO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
@@ -334,27 +156,6 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-anturios-do-campo</url_origem>
     <fotos>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/93ee630f-6171-4387-91f7-b62435a36819.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALARBORETTO</codigo>
-    <titulo>PORTAL ARBORETTO</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Divinópolis</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>49</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-arboretto</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/64e8999fd8ac2653315c061b_Ativo%2050.webp</foto>
     </fotos>
   </imovel>
 </imoveis>
