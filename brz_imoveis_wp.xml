@@ -133,29 +133,24 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALRECANTOSDERIMI</codigo>
-    <titulo>PORTAL RECANTOS DE RIMINI</titulo>
+    <codigo>BRZ-PORTALENCANTOSDAMATA</codigo>
+    <titulo>PORTAL ENCANTOS DA MATA</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>AV. JOÃO ARGENTON, 3.041</rua>
-    <cidade>Sumaré</cidade>
+    <rua>Endereço a consultar</rua>
+    <cidade>Embu das Artes</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>68</area_util>
+    <area_util>41.58</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Lançamento</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-recantos-de-rimini</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-da-mata</url_origem>
     <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66673df075271fe115ef409e_BRZ_Portal%20Recantos%20de%20Rimini_Portal%20de%20Acesso_PRANCHA%20EM%20ALTA.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/63cbc4b4-988a-40ef-809d-829ca59b0b0a.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/25bc8016-4d40-48b2-b2cc-f54faada46ae.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/90facd53-bf90-4a1e-acd6-2ce5e53133a0.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/4349dd07-c03f-41ea-8338-73ed171881c3.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/834dc410-7ff6-4cb7-a69a-0f8776358415.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68af60af0609c4c6c2068641_familia-feliz-sentada-no-sofa-na-sala-de-estar%20(1</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -182,6 +177,32 @@
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/defc8ffa-d9c7-4c6f-8a06-ded19bd01cca.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/bf298e4e-2819-452e-ac9f-06a08c3316cb.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/0272c979-6898-4e49-a82d-7f085acd4c24.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALENCANTOSDEVENE</codigo>
+    <titulo>PORTAL ENCANTOS DE VENEZA</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>RUA ARMANDO DOS SANTOS, 10 - JARDIM NOVA ALVORADA, HORTOLÂNDIA/SP</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>45.22</area_util>
+    <quartos>3</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-veneza</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678fa04ad331580ba1d92ed0_E130-IMG-PRL-PDA-PAR-R00.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/811703a3-7f0a-4352-ab50-f301c8d28863.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/6062dee7-0cd7-49a6-ae28-e3871d829caf.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9ad57813-0cd4-4cdc-884e-90576412b5a4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/2c6234e2-bb49-447f-b54d-a8f78feaeee0.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/86ff247e-b04c-43b5-a6be-9229ee9776b5.webp</foto>
     </fotos>
   </imovel>
   <imovel>
