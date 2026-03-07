@@ -64,6 +64,27 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALJARDIMDEANTARE</codigo>
+    <titulo>PORTAL JARDIM DE ANTARES</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>Av. da Emancipação, 4.813 - Parque dos Pinheiros, Hortolândia - SP</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>37.40</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Lançamento</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-antares</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9370ae43-99fb-4d42-b35b-bf0ca6eb019c.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-PORTALCASTELOSDEBRSC</codigo>
     <titulo>PORTAL CASTELOS DE BRÉSCIA</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
@@ -290,6 +311,32 @@
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/b2c8f5c2-77ff-4abe-b7c0-bad13416700b.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/783ab4a5-55bf-4309-92e6-a59f99a87eaa.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/4953cb5b-e5a8-4bc5-9ea2-857120dbea51.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALRECANTOSDERIMI</codigo>
+    <titulo>PORTAL RECANTOS DE RIMINI</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>AV. JOÃO ARGENTON, 3.041</rua>
+    <cidade>Sumaré</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>68</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-recantos-de-rimini</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66673df075271fe115ef409e_BRZ_Portal%20Recantos%20de%20Rimini_Portal%20de%20Acesso_PRANCHA%20EM%20ALTA.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/63cbc4b4-988a-40ef-809d-829ca59b0b0a.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/25bc8016-4d40-48b2-b2cc-f54faada46ae.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/90facd53-bf90-4a1e-acd6-2ce5e53133a0.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/4349dd07-c03f-41ea-8338-73ed171881c3.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/834dc410-7ff6-4cb7-a69a-0f8776358415.webp</foto>
     </fotos>
   </imovel>
   <imovel>
