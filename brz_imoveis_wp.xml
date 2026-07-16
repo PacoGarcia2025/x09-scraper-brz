@@ -46,6 +46,32 @@
     </fotos>
   </imovel>
   <imovel>
+    <codigo>BRZ-PORTALJARDIMDEANTARE</codigo>
+    <titulo>PORTAL JARDIM DE ANTARES</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>Av. da Emancipação, 4.813 - Parque dos Pinheiros, Hortolândia - SP</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>37.40</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Lançamento</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-antares</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9370ae43-99fb-4d42-b35b-bf0ca6eb019c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/10a1062d-780d-420d-a663-32777ff0a3d2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/5b05abd3-33bc-40d1-83ec-e37b1a6820e2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/318bfa1a-06a2-4c6e-af17-7a231cb69846.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/64b601d7-1c75-4044-b05b-06e78878e0c2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/902ee175-1f9e-4f84-b038-4ecb317cdfe4.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
     <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
@@ -61,34 +87,8 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-antares</url_origem>
-    <fotos/>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALENCANTODASCORE</codigo>
-    <titulo>PORTAL ENCANTO DAS CORES</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>RUA MOBILES, 121 - BAIRRO JARDIM VITÓRIA, EMBÚ DAS ARTES/SP</rua>
-    <cidade>Embu das Artes</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>39.88</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encanto-das-cores</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/674609138d84534d0641eedb_E141_IMG_PRL_PDA_PAR_R01.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/f4634e6c-d9eb-49b8-92b8-31d9ca959dcd.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/78ee06e0-a317-4f5c-a79b-6b58059eda7c.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/1e7c7711-527a-4ab5-a2af-5a087b00162b.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/cbb12a6c-6d9d-414c-b588-949fea2e550d.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/213369ad-158c-42ed-b554-370243db89e6.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALENCANTOSDAMATA</codigo>
@@ -164,14 +164,14 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALJARDINSDEORION</codigo>
-    <titulo>PORTAL JARDINS DE ORION</titulo>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>RUA RIO PINDARÉ, 626 - PARQUE ORESTES ONGARO, HORTOLÂNDIA/SP</rua>
-    <cidade>Hortolândia</cidade>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>41.48</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -180,14 +180,7 @@
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-de-orion</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/682c9ac687ec4033f90163ff_E153-IMG-PRL-PDA-PAR-R01.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/8af06532-eca4-4eeb-a381-8475538467b4.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/320b8c04-3b3d-4e71-b71e-e0a319158df2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/b6572678-29f0-47e5-acd6-b3aff36234de.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/b4658b5b-7522-4502-b338-b1a2202fa1a2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/b831499a-3a98-4187-8bf5-2a996f22a235.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALTORRESDEMILO</codigo>
@@ -331,33 +324,14 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALBEGNIASDOCAMPO</codigo>
+    <titulo>PORTAL BEGÔNIAS DO CAMPO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <cidade>Araras</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-begonias-do-campo</url_origem>
-    <fotos/>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALALVORADADASGAR</codigo>
-    <titulo>PORTAL ALVORADA DAS GARÇAS</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>Ribeirão Preto</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>54</area_util>
+    <area_util>52</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -365,9 +339,9 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alvorada-das-garcas</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-begonias-do-campo</url_origem>
     <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68b9dcbe97f5baadb5a0e6af_021.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/67926f8f4523b91b753c284b_02-67926edf37f1f.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -386,14 +360,14 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-anturios-do-campo</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alvorada-das-garcas</url_origem>
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALAZALEIASDOCAMP</codigo>
-    <titulo>PORTAL AZALEIAS DO CAMPO</titulo>
+    <codigo>BRZ-PORTALANTRIOSDOCAMPO</codigo>
+    <titulo>PORTAL ANTÚRIOS DO CAMPO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>AV. THEREZA ANA CECON BREDA, 1.721 - JARDIM DAS COLINAS, HORTOLÂNDIA - SP, 13183-255</rua>
+    <rua>AV. THEREZA ANA CECON BREDA, 1591 - JARDIM DAS COLINAS, HORTOLÂNDIA - SP, 13183-091</rua>
     <cidade>Hortolândia</cidade>
     <estado>SP</estado>
     <bairro/>
@@ -405,10 +379,29 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-azaleias-do-campo</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-anturios-do-campo</url_origem>
     <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/c5f884b9-ef31-453b-951f-9a2c1b6e8017.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/93ee630f-6171-4387-91f7-b62435a36819.webp</foto>
     </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>0</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-azaleias-do-campo</url_origem>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALCAMINHOSDECRDO</codigo>
