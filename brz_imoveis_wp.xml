@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <imoveis>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALENCANTOSDEMARA</codigo>
+    <titulo>PORTAL ENCANTOS DE MARATIM</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <rua>RUA RAPHAELA CÂNCER, 115</rua>
+    <cidade>Ubatuba</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>49.16</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Lançamento</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-maratim</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/05f9119d-0006-4d62-8c35-53803a5b6041.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
@@ -39,30 +41,23 @@
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALJARDIMDEANTARE</codigo>
-    <titulo>PORTAL JARDIM DE ANTARES</titulo>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Av. da Emancipação, 4.813 - Parque dos Pinheiros, Hortolândia - SP</rua>
-    <cidade>Hortolândia</cidade>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>37.40</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Lançamento</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-antares</url_origem>
-    <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9370ae43-99fb-4d42-b35b-bf0ca6eb019c.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/10a1062d-780d-420d-a663-32777ff0a3d2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/5b05abd3-33bc-40d1-83ec-e37b1a6820e2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/318bfa1a-06a2-4c6e-af17-7a231cb69846.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/64b601d7-1c75-4044-b05b-06e78878e0c2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/902ee175-1f9e-4f84-b038-4ecb317cdfe4.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
@@ -124,32 +119,6 @@
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALGIARDINIDIFIRE</codigo>
-    <titulo>PORTAL GIARDINI DI FIRENZE</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>ESTRADA KAZUMI SETOGUCHI, GLEBA - A, 350 - MORRO VERMELHO - MOGI MIRIM/SP</rua>
-    <cidade>Mogi Mirim</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>69.38</area_util>
-    <quartos>3</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-giardini-di-firenze</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6758799b45ced1fe0f452348_E122_IMG_PRL_PDA_PAR_R00.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/2779e30a-9d70-4ca4-9daa-8f8f2207b681.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/89db161c-40b7-4133-b576-b1597e244c0e.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/a274bbae-732c-4c33-9053-f575f4bf09d8.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/c1f570f8-e046-4a34-a712-61fb3367be1e.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/be8c9eb2-92ed-4f08-b99c-a03a8b769415.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
     <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
@@ -165,8 +134,34 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-de-orion</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-giardini-di-firenze</url_origem>
     <fotos/>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALJARDINSDEORION</codigo>
+    <titulo>PORTAL JARDINS DE ORION</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>RUA RIO PINDARÉ, 626 - PARQUE ORESTES ONGARO, HORTOLÂNDIA/SP</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>41.48</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-de-orion</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/682c9ac687ec4033f90163ff_E153-IMG-PRL-PDA-PAR-R01.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/8af06532-eca4-4eeb-a381-8475538467b4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/320b8c04-3b3d-4e71-b71e-e0a319158df2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/b6572678-29f0-47e5-acd6-b3aff36234de.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/b4658b5b-7522-4502-b338-b1a2202fa1a2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/b831499a-3a98-4187-8bf5-2a996f22a235.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALTORRESDEMILO</codigo>
@@ -195,40 +190,33 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALVILADASBOUGAIN</codigo>
-    <titulo>PORTAL VILA DAS BOUGAINVILLES</titulo>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>ESTRADA KAZUMI SETOGUCHI, 350, MORRO VERMELHO - MOGI MIRIM/SP</rua>
-    <cidade>Mogi Mirim</cidade>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>44.61</area_util>
-    <quartos>3</quartos>
+    <area_util>0</area_util>
+    <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Lançamento</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vila-das-bougainvilles</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6894ad9bb54d9241b0339e02_E121-IMG-PRL-PDA-PAR_SLG-R00-01.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/c382f63a-ce8d-4e44-9b18-327db424d10f.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/6c10e850-1a15-474c-b4d4-281dce13d7af.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/f2a361b2-bb99-45d5-9efc-4537fdf68c74.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/6481c11a-1900-43d9-ad1e-286e76f3f751.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/3aa38529-527d-43bf-9dc0-5ff6f094c02f.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALVISTADEFLORENA</codigo>
-    <titulo>PORTAL VISTA DE FLORENÇA</titulo>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>RUA VANDERLEI FERNANDES COSTA</rua>
-    <cidade>Paulínia</cidade>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>60.50</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -237,14 +225,7 @@
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vista-de-florenca</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6830ba017b683125a8db79f2_E131-IMG-DEF-PDA-NOT-PAR-R00.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/25e8858f-c3e3-4ca3-8c5a-725cc80877db.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/a3acc4bb-56ca-4710-b682-778d38d23eff.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/a84de05d-84e0-45aa-9f1b-048ccb32ff18.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/2666cc78-c38a-4f34-9281-37409eb47029.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/7/e50743e2-6c5b-4651-9cd1-b05f9bf8c1ff.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
@@ -287,23 +268,25 @@
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALALTODASOLIVEIR</codigo>
+    <titulo>PORTAL ALTO DAS OLIVEIRAS</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <rua>RUA ELYSALDO GOES, 105 PARQUE DAS OLIVEIRAS II, RIBEIRÃO PRETO - SP, 14059-240</rua>
+    <cidade>Ribeirão Preto</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>54</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alto-das-oliveiras</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66fc33db0f10db89970ea940_dji-0425-66fc32a02c0f0.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALBEGNIASDOCAMPO</codigo>
@@ -367,41 +350,45 @@
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALAZALEIASDOCAMP</codigo>
+    <titulo>PORTAL AZALEIAS DO CAMPO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <rua>AV. THEREZA ANA CECON BREDA, 1.721 - JARDIM DAS COLINAS, HORTOLÂNDIA - SP, 13183-255</rua>
+    <cidade>Hortolândia</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>56</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-azaleias-do-campo</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/c5f884b9-ef31-453b-951f-9a2c1b6e8017.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALCAMINHOSDECRDO</codigo>
+    <titulo>PORTAL CAMINHOS DE CÓRDOBA</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <cidade>Araraquara</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>52</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-caminhos-de-cordoba</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://uploads-ssl.webflow.com/63befd2a22d30f24af226e0f/64eca06f1133834653177d9b_Ativo%2072.webp</foto>
+    </fotos>
   </imovel>
 </imoveis>
