@@ -1,52 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <imoveis>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALENCANTOSDEMARA</codigo>
+    <titulo>PORTAL ENCANTOS DE MARATIM</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <rua>RUA RAPHAELA CÂNCER, 115</rua>
+    <cidade>Ubatuba</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-maratim</url_origem>
-    <fotos/>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>0</area_util>
-    <quartos>2</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-torres-de-boreal</url_origem>
-    <fotos/>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALJARDIMDEANTARE</codigo>
-    <titulo>PORTAL JARDIM DE ANTARES</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Av. da Emancipação, 4.813 - Parque dos Pinheiros, Hortolândia - SP</rua>
-    <cidade>Hortolândia</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>37.40</area_util>
+    <area_util>49.16</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -54,18 +16,75 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Lançamento</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-antares</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-maratim</url_origem>
     <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9370ae43-99fb-4d42-b35b-bf0ca6eb019c.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/5/b64af06b-c8f8-4798-9961-033ff404fe28.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/5/d7ddb63f-6e42-450c-8743-3a5686e18e1c.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/5/b72594dd-e971-41f7-9c7d-d64dc5748cfe.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/10a1062d-780d-420d-a663-32777ff0a3d2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/5b05abd3-33bc-40d1-83ec-e37b1a6820e2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/318bfa1a-06a2-4c6e-af17-7a231cb69846.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/64b601d7-1c75-4044-b05b-06e78878e0c2.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/4/902ee175-1f9e-4f84-b038-4ecb317cdfe4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/05f9119d-0006-4d62-8c35-53803a5b6041.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/faf45b19-2516-4ec6-b4a8-6415887e2cb9.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/9d95e37e-c2dd-47b1-af0c-422537c5ffc4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/6d375435-a561-436f-b17c-332eb0ef7a05.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/1e1ddb2f-0b1e-4be9-86c4-f1e76fc6ff79.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/7e5b71e3-ee73-485b-b73e-62974149a80a.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/7f3dfa05-bf4c-41b2-9522-c798e081151f.webp</foto>
     </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALTORRESDEBOREAL</codigo>
+    <titulo>PORTAL TORRES DE BOREAL</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>RUA JOSÉ VEDOVATTO, 1.667</rua>
+    <cidade>Sumaré</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>45.94</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Lançamento</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-torres-de-boreal</url_origem>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/8ba2cf6f-a565-44ac-857a-33bdcfe745c5.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/4ccfdcdc-ab13-40cd-a6a5-24cb13340529.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/5155cab5-3496-4449-bfb5-6be2675fb859.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/ac5e874c-fd94-42a9-9a2e-a5f7d0ed9e60.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/eefd3f5f-3023-4ab3-91c5-4590018c9fdb.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/2e5414f4-230d-405e-a52d-59078f0c5560.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/77392f8f-47bb-40fa-9948-7554990f58a2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/f3f2ef59-068f-4865-b7b3-21d76b4b863c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/047ea034-05de-4d7c-aa55-08aa28294c62.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/4b22f115-f9b6-401b-ae1a-f21c20d35e7f.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/9237fc71-36fc-4c2b-9d8e-7e4014592277.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/d6a7d73d-3a3d-44ec-8dc7-a9218551108f.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/6f258b57-c499-4c2b-a7a6-cb259a9974da.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/e1972e0b-f86c-4459-bfb6-9d9ff937611c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/2/04f3de89-e50a-48c9-8c07-d48b2c7cb9ff.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/da1ffefc-a7ed-479e-b650-bbc8ccc4655d.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/4ce17880-10f9-499a-bb31-b98ffa9f4a82.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/103c85cb-a508-4d24-aee7-8d83a9f9410c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/013f05c4-93e8-4f7a-a777-9d629e758e45.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/6/928a2c83-86c0-4108-b70a-1f8b4860de70.webp</foto>
+    </fotos>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>0</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-antares</url_origem>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
@@ -132,46 +151,19 @@
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/bb8b6253-63df-4e4e-a148-bb69eade847e.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/daca7a5e-0e66-466b-880e-a943292e2d9e.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/6e900498-97c2-4acd-9970-94627ec983ff.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/aea72466-170b-4ad1-b658-e51430cc2d5e.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/1ae04c13-d0d5-4adf-8962-386967dbe08d.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/eddfcd07-db73-417d-8d15-08b2991ea2ea.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/d346258f-7427-4776-ae16-4500e89f9a73.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/fc57cbbf-c7e7-419e-809c-9da8b78b9247.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/f7ab7b4e-039a-44ab-982f-6e71406253db.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/f1a38584-870e-4a87-ae2b-6572d60991df.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/298cd117-7afd-43bb-9c62-c37d0fc3f84a.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/cbd0582e-715e-4840-baef-2add9c1d19eb.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/b4cc1d64-a750-4700-b333-b150590e80f5.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/2049defd-0de2-483a-bd5f-457a23d791b0.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/cef66307-709c-4c75-91bb-b95b7854fd31.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/68510eef-3aba-45d8-bff2-79cb0e0293eb.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/bd98c60e-bcb3-4527-add3-87f7d296dd56.webp</foto>
-    </fotos>
-  </imovel>
-  <imovel>
-    <codigo>BRZ-PORTALGIARDINIDIFIRE</codigo>
-    <titulo>PORTAL GIARDINI DI FIRENZE</titulo>
-    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>ESTRADA KAZUMI SETOGUCHI, GLEBA - A, 350 - MORRO VERMELHO - MOGI MIRIM/SP</rua>
-    <cidade>Mogi Mirim</cidade>
-    <estado>SP</estado>
-    <bairro/>
-    <area_util>69.38</area_util>
-    <quartos>3</quartos>
-    <vagas>1</vagas>
-    <banheiros>1</banheiros>
-    <preco>0</preco>
-    <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
-    <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-giardini-di-firenze</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6758799b45ced1fe0f452348_E122_IMG_PRL_PDA_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae4a4b2f3efc7ee4d2f9_E122_IMG_DEF_SAU_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae278be3fa6d6da0a50a_E122_IMG_DEF_VRF_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae2e27491b72d2985252_E122_IMG_DEF_PLY_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae336ed2e1084d6391fa_E122_IMG_DEF_EPG_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae3c27491b72d29867e8_E122_IMG_DEF_CHU_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae4187e1f666e69c6f89_E122_IMG_DEF_BRQ_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae4f5f23f6a398d7bf53_E122_IMG_DEF_PCB_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae3487e1f666e69c5d44_E122_IMG_DEF_LAV_PAR_R00.webp</foto>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678aae3987e1f666e69c6627_E122_IMG_DEF_EMP_PAR_R00.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/90558e53-bb9a-4f5f-b140-0355a9b11a41.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/2f9233c1-7c47-4297-aeed-b6fa5db52d6a.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/ba66d2d9-de3c-4ebd-be90-c3ec9194a838.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/fc2fefa5-0d7f-44ba-8d47-f3c46bde99d7.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/7be23218-ff70-4483-9155-e9b7d6a218cb.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -190,8 +182,48 @@
     <mostrar_preco>nao</mostrar_preco>
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
-    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-de-orion</url_origem>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-giardini-di-firenze</url_origem>
     <fotos/>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-PORTALJARDINSDEORION</codigo>
+    <titulo>PORTAL JARDINS DE ORION</titulo>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
+    <rua>RUA RIO PINDARÉ, 626 - PARQUE ORESTES ONGARO, HORTOLÂNDIA/SP</rua>
+    <cidade>Hortolândia</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>41.48</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardins-de-orion</url_origem>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/682c9ac687ec4033f90163ff_E153-IMG-PRL-PDA-PAR-R01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6830b4ab0bd4932eaf7932db_E153-IMG-PRL-FCH-PAR-R02.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/682c9ac7244e553bee3e882f_E153-IMG-PRL-PIS-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8c4d03d41559d454e3b_E153-IMG-DEF-CHU-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8c7343235a6c8c48b18_E153-IMG-DEF-CSF-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8c9343235a6c8c48c45_E153-IMG-DEF-EPG-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8d44b2291446dc9e994_E153-IMG-DEF-SDF-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc89b343235a6c8c45e16_E153-IMG-DEF-BIC-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8cf52829aa1245993ad_E153-IMG-DEF-PET-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8d27f9084a853fe6aaa_E153-IMG-DEF-EPB-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8d6d7df612bf2d8fd74_E153-IMG-DEF-IOP-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8db343235a6c8c4a976_E153-IMG-DEF-ACD-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8ded59ca5c3c083caea_E153-IMG-DEF-BLT-PAR-R00-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8e119b84daa420958c8_E153-IMG-DEF-LSF-PAR-R00-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8e3d01d50f53cb66a52_E153-IMG-DEF-PLY-PAR-R00-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8e5d59ca5c3c083d059_E153-IMG-DEF-CWO-PAR-R00-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8e7d7df612bf2d90742_E153-IMG-DEF-HCM-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8d952829aa124599b09_E153-IMG-DEF-EMP-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8d087d710ca1e78c09b_E153-IMG-DEF-VAG-PAR-R01-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/688bc8df21ecc92f3885ee76_E153-IMG-DEF-LAV-PAR-R00-01.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALTORRESDEMILO</codigo>
@@ -216,6 +248,10 @@
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/29408878-cfc8-45cf-898b-e9f9d8c33e1e.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/8cd84f24-152d-48ea-9629-0fdeb69cb8c8.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/6d0d48e4-a1d7-4da4-b350-435829a8daaa.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/4fbbd64a-ca91-429b-8e28-c4ee4ad30c3b.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/5332bdc4-bcf3-4d4b-bf85-0ac5410534f4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/bc5dd61e-65b1-4bba-aa6f-8dc6a7d06ad1.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/fd3e86bb-e105-4d87-a50a-e836d07c7cba.webp</foto>
       <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/686d1e2e323a6ff8283a305d_E162-IMG-PRL-PIS-PAR-01.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/68e9780a-e329-4916-b381-d630ce7ee12c.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/0f085038-679c-4bfb-8976-6c0d4dd4379b.webp</foto>
@@ -227,7 +263,7 @@
   <imovel>
     <codigo>BRZ-PORTALVILADASBOUGAIN</codigo>
     <titulo>PORTAL VILA DAS BOUGAINVILLES</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>ESTRADA KAZUMI SETOGUCHI, 350, MORRO VERMELHO - MOGI MIRIM/SP</rua>
     <cidade>Mogi Mirim</cidade>
     <estado>SP</estado>
@@ -243,6 +279,8 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vila-das-bougainvilles</url_origem>
     <fotos>
       <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6894ad9bb54d9241b0339e02_E121-IMG-PRL-PDA-PAR_SLG-R00-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6894ad9b352967ee1f414887_E121-IMG-PRL-FCH-PAR-R00-01.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6894ad9b7f628af9e5d87900_E121-IMG-PRL-PIS-PAR-R00-01.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/c382f63a-ce8d-4e44-9b18-327db424d10f.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/6c10e850-1a15-474c-b4d4-281dce13d7af.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/1/f2a361b2-bb99-45d5-9efc-4537fdf68c74.webp</foto>
@@ -269,6 +307,18 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vista-de-florenca</url_origem>
     <fotos>
       <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6830ba017b683125a8db79f2_E131-IMG-DEF-PDA-NOT-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595bd4687488c341447632_E131-IMG-DEF-FCH-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595c04230f34ac3d77d154_E131-IMG-DEF-PRG-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595c45230f34ac3d780a52_E131-IMG-DEF-APT-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6830ba01c980905d28777219_E131-IMG-DEF-INT-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6830ba01e886faa1b5d2336b_E131-IMG-DEF-PIS-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595beb230f34ac3d77b6bc_E131-IMG-DEF-SAU-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595beef23c4be568838332_E131-IMG-DEF-CHU-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595bf7e14885e52f9df4e0_E131-IMG-DEF-PLY-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595c0de14885e52f9e0778_E131-IMG-DEF-PIQ-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595c33eef0eb4800cadeb6_E131-IMG-DEF-RED-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595bf9eef0eb4800ca9fda_E131-IMG-DEF-EPB-PAR-R00.webp</foto>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/68595b4ab5169c8549692933_E131-IMG-DEF-BIC-PAR-R00.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/bdcb0e8a-9e03-488f-a049-a9cd59d51e65.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/ec8cff9f-a5a1-4f54-a10a-0d4b4dd799b7.webp</foto>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/22a9cd9d-0e6d-4b32-9651-804537e80651.webp</foto>
@@ -295,28 +345,45 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-pieta</url_origem>
     <fotos>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/3754a75c-743b-4dbc-b03c-53605eaeea9a.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/4f61be68-94c1-4c3c-b928-9eab37267ef6.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/65d24aa6-f473-4962-9e7c-f78345603a67.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/90e37d6f-e852-4c2d-9d9a-da7998e58b6c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/1e863493-2146-4e5e-b740-732ad45bca7b.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/3e7644c0-cadb-4c08-bca7-faaf07f6e58d.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/beaa8c25-5c70-401f-ba84-517583369eb8.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/8c8f12ba-2c71-4199-b52a-b25f6e79a770.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/0a205054-3e9c-4b12-a749-015538160f8a.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/cd0a5ec5-e409-4b10-aab3-d886867b32fe.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/ceae5e67-597d-407a-a9a9-bd41d0213832.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/5c2fbf8b-42e3-4c65-b46a-9e8cb49430b6.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/9e4e9ab6-4a15-46f4-968e-6e6822a39a35.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/b5db866a-e841-4abb-afe4-26bdf2bfd384.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/01eb3689-f2cf-4bf5-bd1b-bede3077075b.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/41d43cf2-4296-4580-9f25-880861230bf4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/439ca8dd-97b1-4157-9554-4ccc3a9e8e6f.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/8a720c76-8c1a-4ab0-8996-b88152cbc8e6.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/e8d2b2c8-b883-425b-9bce-f9973eee9e83.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/8/18bf1fe8-1adf-49bf-943b-9b31bd4c6cfc.webp</foto>
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALJARDIMDELYRA</codigo>
-    <titulo>PORTAL JARDIM DE LYRA</titulo>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>Hortolândia</cidade>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>47.13</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Lançamento</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-jardim-de-lyra</url_origem>
-    <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/5/530bb4aa-39a3-47a5-ae71-cfa1d329aca8.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALTORRESDEVERONA</codigo>
@@ -342,7 +409,7 @@
   <imovel>
     <codigo>BRZ-PORTALVISTADEGNOVA</codigo>
     <titulo>PORTAL VISTA DE GÊNOVA</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
     <cidade>Paulínia</cidade>
     <estado>SP</estado>
@@ -358,6 +425,9 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vista-de-genova</url_origem>
     <fotos>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/62eda234-415d-42fb-b09e-11389d33fe3c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/5b7b497b-2cde-474b-a425-e3563d0d05e5.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/721575ae-8646-484f-bd5c-8b62bc6849b5.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/a9a8e327-4a9c-4743-90fc-72f7e20dc0f6.webp</foto>
     </fotos>
   </imovel>
   <imovel>
@@ -384,7 +454,7 @@
   <imovel>
     <codigo>BRZ-PORTALVILADASTULIPAS</codigo>
     <titulo>PORTAL VILA DAS TULIPAS</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
     <cidade>Mogi Guaçu</cidade>
     <estado>SP</estado>
@@ -400,44 +470,62 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vila-das-tulipas</url_origem>
     <fotos>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/2c504087-2f40-4792-a8d0-ee25b8b220b2.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/ad24e3f1-0f56-442a-85a3-571be3f269dd.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/90576e82-669c-40fb-b2e5-b55b18f2690f.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/c2f73671-8456-4a46-a221-c00c7edc4a6d.webp</foto>
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALMARDOSCRISTAIS</codigo>
+    <titulo>PORTAL MAR DOS CRISTAIS</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
     <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <cidade>Caraguatatuba</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>42.61</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Lançamento</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-mar-dos-cristais</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/16af4f76-47f2-4911-be45-7514f7148b12.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/b87a6796-c587-456d-9b49-d6d3a72962b9.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/92c431d4-0a15-4041-923b-c6c7812501a4.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/01fa36f3-3748-4fac-b9db-8a46765a8a9d.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
+    <codigo>BRZ-PORTALALTODASOLIVEIR</codigo>
+    <titulo>PORTAL ALTO DAS OLIVEIRAS</titulo>
     <descricao>Clicando em "Aceito todos os Cookies", você concorda com o armazenamento de cookies no seu dispositivo para melhorar a experiência e navegação no site.</descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <rua>RUA ELYSALDO GOES, 105 PARQUE DAS OLIVEIRAS II, RIBEIRÃO PRETO - SP, 14059-240</rua>
+    <cidade>Ribeirão Preto</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
+    <area_util>54</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Em Construção</status_obra>
+    <status_obra>Pronto para Morar</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alto-das-oliveiras</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66fc33db0f10db89970ea940_dji-0425-66fc32a02c0f0.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/13c74035-25c0-4382-9014-a00eb84edc15.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/81cc20b8-1631-4088-82e5-96a1df4f803c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/9c420694-c22a-4c9b-b970-ec50ff26f77c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/04403ab9-84b1-4419-8072-062354a40499.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/9fb76e5e-445f-4991-b5b4-3b7bd89b4c33.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/fcad51f9-c0ce-4fc7-a370-8a794263205c.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/4c1b4293-2873-4bea-8add-d3fd939b87ee.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/10/ac2698b9-1d24-4c42-838f-7861cedc06ab.webp</foto>
+    </fotos>
   </imovel>
 </imoveis>
