@@ -116,19 +116,15 @@
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-SEMTTULO</codigo>
-    <titulo>SEM TÍTULO</titulo>
-    <descricao>
-                Ao clicar em "Enviar mensagem", você concorda com a nossa
-                
-                    Política de Privacidade.
-                </descricao>
-    <rua>Endereço a consultar</rua>
-    <cidade>São Paulo</cidade>
+    <codigo>BRZ-PORTALENCANTOSDEVENE</codigo>
+    <titulo>PORTAL ENCANTOS DE VENEZA</titulo>
+    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
+    <rua>RUA ARMANDO DOS SANTOS, 10 - JARDIM NOVA ALVORADA, HORTOLÂNDIA/SP</rua>
+    <cidade>Hortolândia</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>0</area_util>
-    <quartos>2</quartos>
+    <area_util>45.22</area_util>
+    <quartos>3</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
@@ -136,7 +132,20 @@
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-encantos-de-veneza</url_origem>
-    <fotos/>
+    <fotos>
+      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/678fa04ad331580ba1d92ed0_E130-IMG-PRL-PDA-PAR-R00.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/5512f0d0-29c9-4547-a914-dbab42919eb1.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/9aa54a9d-574c-4468-bd0b-b39083fe1c6f.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/581ef879-f511-42eb-9b20-aa45f37770a9.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/bb8b6253-63df-4e4e-a148-bb69eade847e.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/daca7a5e-0e66-466b-880e-a943292e2d9e.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2025/11/6e900498-97c2-4acd-9970-94627ec983ff.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/b4bf2ad8-0071-4a7b-ae93-1b32339edc02.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/c8eab965-759a-458c-b624-f5bc94de1266.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/b55d0d36-c873-4a4b-b602-d635dde7b681.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/e4187fff-62b3-42bc-a6d3-3e1618608ee1.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/0779094e-c790-446a-8234-9548bb60d4e3.webp</foto>
+    </fotos>
   </imovel>
   <imovel>
     <codigo>BRZ-PORTALGIARDINIDIFIRE</codigo>
@@ -242,14 +251,41 @@
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALVISTADEFLORENA</codigo>
-    <titulo>PORTAL VISTA DE FLORENÇA</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>RUA VANDERLEI FERNANDES COSTA</rua>
-    <cidade>Paulínia</cidade>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>
+                Ao clicar em "Enviar mensagem", você concorda com a nossa
+                
+                    Política de Privacidade.
+                </descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>60.50</area_util>
+    <area_util>0</area_util>
+    <quartos>2</quartos>
+    <vagas>1</vagas>
+    <banheiros>1</banheiros>
+    <preco>0</preco>
+    <mostrar_preco>nao</mostrar_preco>
+    <status_obra>Em Construção</status_obra>
+    <tipo_imovel>Apartamento</tipo_imovel>
+    <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vila-das-bougainvilles</url_origem>
+    <fotos/>
+  </imovel>
+  <imovel>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>
+                Ao clicar em "Enviar mensagem", você concorda com a nossa
+                
+                    Política de Privacidade.
+                </descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+    <bairro/>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
@@ -258,14 +294,7 @@
     <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-vista-de-florenca</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/6830ba017b683125a8db79f2_E131-IMG-DEF-PDA-NOT-PAR-R00.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/2d5561a6-4a77-4a71-b658-e476852d3ee8.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/6a07ce40-6ce8-49fc-a008-5d8f825ed874.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/45d6b799-150e-4b52-b2ab-9089254de8dd.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/321c7d39-e803-453a-9465-e1f841b66cc4.webp</foto>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/b06e6884-a3b6-4dd6-acc4-d4cd1eaa0d23.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
@@ -359,25 +388,27 @@
     <fotos/>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALSONSDECAPELLA</codigo>
-    <titulo>PORTAL SONS DE CAPELLA</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>RUA JOAQUIM DA COSTA CAMARGO</rua>
-    <cidade>Hortolândia</cidade>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>
+                Ao clicar em "Enviar mensagem", você concorda com a nossa
+                
+                    Política de Privacidade.
+                </descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>37.40</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Lançamento</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-sons-de-capella</url_origem>
-    <fotos>
-      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/2589553f-c21b-4d11-b9c0-226ebb54aa41.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
   <imovel>
     <codigo>BRZ-SEMTTULO</codigo>
@@ -421,27 +452,30 @@
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-mar-dos-cristais</url_origem>
     <fotos>
       <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/16af4f76-47f2-4911-be45-7514f7148b12.webp</foto>
+      <foto>https://cdnstoragebrz.blob.core.windows.net/blob-storage/2026/9/b87a6796-c587-456d-9b49-d6d3a72962b9.webp</foto>
     </fotos>
   </imovel>
   <imovel>
-    <codigo>BRZ-PORTALALTODASOLIVEIR</codigo>
-    <titulo>PORTAL ALTO DAS OLIVEIRAS</titulo>
-    <descricao>O JEITO BRZ DE REALIZAR SONHOS. SUA NOVA HISTÓRIA COMEÇA AQUI.</descricao>
-    <rua>RUA ELYSALDO GOES, 105 PARQUE DAS OLIVEIRAS II, RIBEIRÃO PRETO - SP, 14059-240</rua>
-    <cidade>Ribeirão Preto</cidade>
+    <codigo>BRZ-SEMTTULO</codigo>
+    <titulo>SEM TÍTULO</titulo>
+    <descricao>
+                Ao clicar em "Enviar mensagem", você concorda com a nossa
+                
+                    Política de Privacidade.
+                </descricao>
+    <rua>Endereço a consultar</rua>
+    <cidade>São Paulo</cidade>
     <estado>SP</estado>
     <bairro/>
-    <area_util>54</area_util>
+    <area_util>0</area_util>
     <quartos>2</quartos>
     <vagas>1</vagas>
     <banheiros>1</banheiros>
     <preco>0</preco>
     <mostrar_preco>nao</mostrar_preco>
-    <status_obra>Pronto para Morar</status_obra>
+    <status_obra>Em Construção</status_obra>
     <tipo_imovel>Apartamento</tipo_imovel>
     <url_origem>https://www.brzempreendimentos.com/empreendimentos/portal-alto-das-oliveiras</url_origem>
-    <fotos>
-      <foto>https://cdn.prod.website-files.com/63befd2a22d30f24af226e0f/66fc33db0f10db89970ea940_dji-0425-66fc32a02c0f0.webp</foto>
-    </fotos>
+    <fotos/>
   </imovel>
 </imoveis>
